@@ -1,2 +1,2 @@
 #!/bin/bash
-per| -|ne 'printf $. % 2 ==1'
+per| -|ne 'print if $. % 2 ==1'
