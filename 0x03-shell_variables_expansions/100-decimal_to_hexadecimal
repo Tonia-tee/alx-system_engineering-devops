@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf '%x\n' $DECIMAL 101-rot13
+printf '%x\n' $DECIMAL 101-rot13
